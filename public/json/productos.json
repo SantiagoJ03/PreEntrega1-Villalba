@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "idcategoria": 1,
+        "nombre": "Taza",
+        "precio": 1000,
+        "stock": 20,
+        "img": 1
+    },
+    {   
+        "id": 2,
+        "idcategoria": 2,
+        "nombre": "Tazon",
+        "precio": 1500,
+        "stock": 20,
+        "img": 2
+
+    },
+    {
+        "id": 3,
+        "idcategoria": 3,
+        "nombre": "Adorno",
+        "precio": 2000,
+        "stock": 20,
+        "img": 3
+
+    },
+    {
+        "id": 4,
+        "idcategoria": 4,
+        "nombre": "Maceta",
+        "precio": 2000,
+        "stock": 20,
+        "img": 4
+
+    },
+    {
+        "id": 5,
+        "idcategoria": 5,
+        "nombre": "Jarron",
+        "precio": 1500,
+        "stock": 20,
+        "img": 5
+
+    },
+    {
+        "id": 6,
+        "idcategoria": 6,
+        "nombre": "Plato",
+        "precio": 2000,
+        "stock": 20,
+        "img": 6
+
+    },
+    {
+        "id": 7,
+        "idcategoria": 7,
+        "nombre": "Bandeja",
+        "precio": 1000,
+        "stock": 20,
+        "img": 7
+
+    },
+    {
+        "id": 8,
+        "idcategoria": 8,
+        "nombre": "Olla",
+        "precio": 2000,
+        "stock": 20,
+        "img": 8
+
+    }
+]
